@@ -3,6 +3,6 @@ A tkinter project made for fun and to return MLG era of the internet. (MLG era =
 
 I DO NOT OWN THE IMAGES FROM "memes" FOLDER AND AUDIO FROM "audio" FOLDER!
 
-Have fun!
+Also have fun!
 
 #BringBackMLG
